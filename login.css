@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+#welcomeCol {
+    background: rgb(9, 168, 197);
+}
+#imgCol {
+    padding-top: 25%;
+    padding-bottom: 50%;
+}
+img {
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    /*padding-top: 300px;*/
+}
+#formCol {
+    padding-top: 25%;
+    padding-bottom: 50%;
+    padding-right: 50px;
+}
+#colText {
+    margin: auto;
+}
+.col-text {
+    margin: auto;
+    display: block;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.btn.btn-block {
+    border-radius: 5px;
+    background-color:rgb(9, 168, 197);
+    color: white;
+}
+.btn.btn-block:hover {
+    background-color: white;
+    border-color:rgb(9, 168, 197);
+    color: rgb(9, 168, 197);
+}
+
+
